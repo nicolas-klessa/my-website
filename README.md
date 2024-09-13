@@ -12,3 +12,6 @@
 
 * about to cause a conflict while pulling
 
+## Purpose
+
+* this is a file that serves as examples on how to use Git and GitHub together.
